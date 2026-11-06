@@ -330,7 +330,7 @@ HEAD
                         <h4 class="text-amber-950 dark:text-amber-50 font-semibold mb-4">Get in touch</h4>
                         <ul class="space-y-2">
                             <li><a href="#" class="text-stone-700/80 dark:text-stone-200/80 hover:text-amber-700 dark:hover:text-amber-300 transition-colors">Suggest a Spot</a></li>
-                            <li><a href="#" class="text-stone-700/80 dark:text-stone-200/80 hover:text-amber-700 dark:hover:text-amber-300 transition-colors">Contact</a></li>
+                            <li><a href="{{ url('/contact') }}" class="text-stone-700/80 dark:text-stone-200/80 hover:text-amber-700 dark:hover:text-amber-300 transition-colors">Contact</a></li>
                         </ul>
                     </div>
                 </div>

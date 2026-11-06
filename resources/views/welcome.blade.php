@@ -296,11 +296,8 @@
                         <h4 class="text-amber-950 dark:text-amber-50 font-semibold mb-4">Get in touch</h4>
                         <ul class="space-y-2">
                             <li><a href="#" class="text-rose-800/80 dark:text-rose-100/80 hover:text-pink-500 dark:hover:text-pink-300 transition-colors">Suggest a Spot</a></li>
-HEAD
                             <li><a href="/about" class="text-rose-800/80 dark:text-rose-100/80 hover:text-pink-500 dark:hover:text-pink-300 transition-colors">About</a></li>
-
                             <li><a href="#" class="text-rose-800/80 dark:text-rose-100/80 hover:text-pink-500 dark:hover:text-pink-300 transition-colors">About</a></li>
-155bf12531badadcedeb058de135ff6d8ab1c1d5
                             <li><a href="#" class="text-rose-800/80 dark:text-rose-100/80 hover:text-pink-500 dark:hover:text-pink-300 transition-colors">Contact</a></li>
                         </ul>
                     </div>

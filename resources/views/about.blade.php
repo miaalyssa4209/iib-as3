@@ -12,7 +12,6 @@
             @vite(['resources/css/app.css', 'resources/js/app.js'])
         @endif
     </head>
-HEAD
     <body id="top" class="min-h-screen overflow-x-hidden bg-stone-50 text-stone-900 antialiased dark:bg-stone-950 dark:text-stone-100">
         <div class="pointer-events-none fixed inset-0 -z-10 overflow-hidden">
             <div class="absolute -top-24 left-1/2 h-72 w-72 -translate-x-1/2 rounded-full bg-rose-200/40 blur-3xl dark:bg-rose-900/20"></div>
@@ -336,7 +335,6 @@ HEAD
                 </div>
                 <div class="border-t border-amber-200/60 dark:border-amber-900/40 mt-8 pt-8 text-center text-stone-700/60 dark:text-stone-200/60">
                     <p>&copy; {{ date('Y') }} MochiMap. Made with love for café hoppers.</p>
-155bf12531badadcedeb058de135ff6d8ab1c1d5
                 </div>
             </div>
         </footer>

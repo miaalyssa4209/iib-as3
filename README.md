@@ -114,4 +114,5 @@ PR #5 — Group README
 Self Reflection:
 Mia Alyssa - I've learned how the flow for collaborations worked for making a website. Problems I encountered were merge conflicts caused by me and Noor 'Aqilah. This merge conflict happened as both of us merged the welcome page at the same time on accident. I managed to merge both versions manually with the help of vscode. Through this, I learned that good communication skills are important in group work.
 Noor 'Aqilah - 
-Areena Aqilah - 
+Areena Aqilah - i learned how to properly clone the website and make changes to it. problems i encountered were when the website theme was incorrect due to me not having "fontaine", i then fixed it by installing "fontaine". i learned ways to work with ai and acknowledge problems and fix them swiftly.
+

@@ -113,5 +113,5 @@ PR #5 — Group README
 
 Self Reflection:
 Mia Alyssa - I've learned how the flow for collaborations worked for making a website. Problems I encountered were merge conflicts caused by me and Noor 'Aqilah. This merge conflict happened as both of us merged the welcome page at the same time on accident. I managed to merge both versions manually with the help of vscode. Through this, I learned that good communication skills are important in group work.
-Noor 'Aqilah - 
+Noor 'Aqilah - The work flow went well. However, there were some conflicts such as merge conflicts in between the work flow. The merge conflict was due to me editing the welcome page at the same time as Mia was editing the welcome page. Moreover, I learnt that when using kilo code ai, we should make the prompt more specific and to not be broad as the ai could add things that we do not want.
 Areena Aqilah - 

@@ -106,10 +106,21 @@ Removing the conflict markers (<<<<<<<, =======, >>>>>>>).
 Staging the file with git add and continuing the rebase with git rebase --continue.
 Merged Pull Requests
 PR #1 — Add cover page
-PR #2 — About page
-PR #3 — Contact page
-PR #4 — Welcome page about link
-PR #5 — Group README
+PR #2 — feat: add about page for fictional Brunei cafes
+PR #3 — feat: refine content and design of about page
+PR #4 — feat:  refine content and design of about page(#3)
+PR #5 — adding feat: about page
+PR #6 — add about and contact pages, update welcome page
+PR #7 — feature/about page
+PR #8 — feature/about page
+PR #9 — changed the theme
+PR #10 — update about.blade.php text
+PR #11 — added README.md message
+PR #12 — added instructions and self-reflection
+PR #13 — added README.md
+PR #14 — update README with team self -reflections
+PR #15 — update self-reflection section in README.md
+PR #16 - finalised README.md
 
 Self Reflection:
 Mia Alyssa - I've learned how the flow for collaborations worked for making a website. Problems I encountered were merge conflicts caused by me and Noor 'Aqilah. This merge conflict happened as both of us merged the welcome page at the same time on accident. I managed to merge both versions manually with the help of vscode. Through this, I learned that good communication skills are important in group work.

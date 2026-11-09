@@ -56,3 +56,62 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+# IIB-AS3 — Group 9
+
+## Team Members & Roles
+
+| Name | Role |
+|------|------|
+| [Mia Alyssa] | Main developer — cover page, project setup, Git workflow, branch protection |
+| [Noor 'Aqilah] | About page, feature branches |
+| [Areena Aqilah] | Contact page, feature branches |
+## About the Site
+
+A Laravel application with three pages:
+
+- **Welcome page** (`/`) — the cover page
+- **About page** (`/about`) — team/company information
+- **Contact page** (`/contact`) — contact details
+
+## Running Locally with Laravel Herd
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/miaalyssa4209/iib-as3.git
+   cd iib-as3
+Install PHP dependencies:
+composer install
+Copy
+Install frontend dependencies:
+npm install
+Copy
+Create the environment file:
+cp .env.example .env
+Copy
+Generate the application key:
+php artisan key:generate
+Copy
+Add the project folder to Laravel Herd, then open https://group9.test in your browser (served over HTTPS).
+Git Workflow
+Every change is made on a feature branch, never directly on main.
+Branch protection is enabled on main, so all changes must go through a pull request.
+After a PR is approved and merged, everyone runs git pull to stay in sync.
+Merge Conflict Resolution
+While integrating the welcome page changes, a merge conflict occurred in resources/views/welcome.blade.php because the main developer and a collaborator had both edited the same file. The conflict was resolved by:
+
+Opening the conflicted file and reviewing both versions.
+Merging the changes manually — keeping the collaborator's work and the welcome-page link.
+Removing the conflict markers (<<<<<<<, =======, >>>>>>>).
+Staging the file with git add and continuing the rebase with git rebase --continue.
+Merged Pull Requests
+PR #1 — Add cover page
+PR #2 — About page
+PR #3 — Contact page
+PR #4 — Welcome page about link
+PR #5 — Group README
+
+Self Reflection:
+Mia Alyssa - I've learned how the flow for collaborations worked for making a website. Problems I encountered were merge conflicts caused by me and Noor 'Aqilah. This merge conflict happened as both of us merged the welcome page at the same time on accident. I managed to merge both versions manually with the help of vscode. Through this, I learned that good communication skills are important in group work.
+Noor 'Aqilah - 
+Areena Aqilah - 
